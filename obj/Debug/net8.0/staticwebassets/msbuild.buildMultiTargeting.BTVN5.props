@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BTVN5.props" />
+</Project>
