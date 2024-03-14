@@ -27,7 +27,12 @@
                         <li class="nav-item">
                             <a class="nav-link text-light" asp-area="" asp-controller="Products" asp-action="Index">Trang Chủ</a>
                         </li>
-
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Products" asp-action="Index">Sản phẩm</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Categories" asp-action="Index">Loại</a>
+                        </li>
                     </ul>
                     <ul class="navbar-nav flex-grow-1" style="display:flex;flex-direction:row-reverse">
                         <li class="nav-item">
@@ -47,9 +52,9 @@
     </header>
     <div class="container">
         <main role="main" class="pb-3">
-            
-                @RenderBody()
-                
+
+            @RenderBody()
+
         </main>
     </div>
 

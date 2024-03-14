@@ -3,64 +3,16 @@
   "WorkspaceRootPath": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\migrations\\20240314042559_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:migrations\\20240314042559_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,184 +30,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
-              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "Views\\Products\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T07:33:47.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-14T07:20:13.927Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:38:25.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAZAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T07:10:05.986Z",
+              "WhenOpened": "2024-03-14T09:33:41.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
-              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "Repository\\ProductRepository.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBoAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T04:39:42.739Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Repository\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\ICategoryRepository.cs",
-              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Repository\\ICategoryRepository.cs",
-              "RelativeToolTip": "Repository\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T04:38:57.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Repository\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\IProductRepository.cs",
-              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Repository\\IProductRepository.cs",
-              "RelativeToolTip": "Repository\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T04:35:11.872Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAcwCwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T04:18:05.851Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
-              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T04:58:20.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20240314042559_v1.cs",
-              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Migrations\\20240314042559_v1.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240314042559_v1.cs",
-              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Migrations\\20240314042559_v1.cs",
-              "RelativeToolTip": "Migrations\\20240314042559_v1.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAgwCEAAABaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T04:25:59.642Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-14T04:20:04.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\CategoryRepository.cs",
-              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Repository\\CategoryRepository.cs",
-              "RelativeToolTip": "Repository\\CategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T04:51:58.32Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T04:25:26.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductDbContext.cs",
-              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Models\\ProductDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\ProductDbContext.cs",
-              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Models\\ProductDbContext.cs",
-              "RelativeToolTip": "Models\\ProductDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T04:15:37.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T04:08:13.107Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Category.cs",
-              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T04:04:27.576Z"
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswCMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T09:35:07.129Z",
+              "EditorCaption": ""
             }
           ]
         },

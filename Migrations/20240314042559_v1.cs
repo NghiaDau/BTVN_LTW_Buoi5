@@ -16,7 +16,7 @@ namespace BTVN5.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    CategortName = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false)
+                    CategoryName = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false)
                 },
                 constraints: table =>
                 {

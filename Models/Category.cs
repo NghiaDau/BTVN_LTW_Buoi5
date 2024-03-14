@@ -6,7 +6,7 @@ namespace BTVN5.Models
     {
         public int Id { get; set; }
         [Required,StringLength(50)]
-        public string CategortName { get; set; }
+        public string CategoryName { get; set; }
         public List<Product>? Products { get; set; }
     }
 }

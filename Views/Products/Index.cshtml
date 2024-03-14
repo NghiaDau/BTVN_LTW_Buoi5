@@ -19,60 +19,33 @@
         <p>
             <a asp-action="Create" class="text-decoration"><h3>Thêm mới</h3></a>
         </p>
-        <table class="table">
-            <thead>
-                <tr>
-                    <th>
-                        @Html.DisplayNameFor(model => model.Title)
-                    </th>
-                    <th>
-                        @Html.DisplayNameFor(model => model.Author)
-                    </th>
-                    <th>
-                        @Html.DisplayNameFor(model => model.Price)
-                    </th>
-                    <th>
-                        @Html.DisplayNameFor(model => model.Description)
-                    </th>
-                    <th>
-                        @Html.DisplayNameFor(model => model.Image)
-                    </th>
-                    <th>
-                        @Html.DisplayNameFor(model => model.Categpry)
-                    </th>
-                    <th></th>
-                </tr>
-            </thead>
-            <tbody>
-                @foreach (var item in Model)
-                {
-                    <tr>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Title)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Author)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Price)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Description)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Image)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Categpry.CategortName)
-                        </td>
-                        <td>
-                            <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                            <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                            <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-                        </td>
-                    </tr>
-                }
-            </tbody>
-        </table>
+        <div class="container mt-4">
+            <div class="col-md-12">
+                <div class="row row-cols-1 row-cols-md-4 g-5">
+                    @foreach (var item in Model)
+                    {
+                        <div class="col">
+                            <div class="card" style="width: 16rem;padding:0">
+                                <div class="card-header" style="display: flex; flex-direction: row ; justify-content: space-between;">
+                                    <h5>@item.Title</h5>
+                                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-danger">Sửa</a>
+                                </div>
+                                <div class="card-body">
+                                    <p><strong>Tác giả :</strong> @item.Author</p>
+                                    <p><strong>Thể loại:</strong> @item.CategpryId</p>
+                                    <img src="@item.Image" class="card-img-bottom" alt="@item.Image">
+                                </div>
+                                <div class="card-footer" style="display: flex; flex-direction: row ; justify-content: end;">
+                                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary">Chi tiết</a>
+                                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger" style="margin-left: 10px;">Xóa</a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+
+                </div>
+            </div>
+        </div>
     </div>
 </div>
