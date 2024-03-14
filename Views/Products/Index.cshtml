@@ -3,16 +3,16 @@
 @{
     ViewData["Title"] = "Index";
 }
-<div class="main-body" style="display:grid;grid-template-columns:20% 80%;">
+<div class="main-body" style="display:grid;grid-template-columns:15% 85%;">
     <div class="left_side">
         <h1>Chủ đề</h1>
         <ul>
+            <a class="text-decoration" asp-action="Index" asp-route-id="@">
+            <li>Cuộc sống(@ViewBag.Life)</li></a>
             <a class="text-decoration" asp-action="" asp-route-id="">
-            <li>Cuộc sống</li></a>
+            <li>Sức khỏe(@ViewBag.Health)</li></a>
             <a class="text-decoration" asp-action="" asp-route-id="">
-            <li>Sức khỏe</li></a>
-            <a class="text-decoration" asp-action="" asp-route-id="">
-            <li>Lập trình</li></a>
+            <li>Lập trình(@ViewBag.Code)</li></a>
         </ul>
     </div>
     <div class="content">
@@ -32,7 +32,7 @@
                                 </div>
                                 <div class="card-body">
                                     <p><strong>Tác giả :</strong> @item.Author</p>
-                                    <p><strong>Thể loại:</strong> @item.CategpryId</p>
+                                    <p><strong>Thể loại:</strong> @item.Categpry.CategoryName</p>
                                     <img src="@item.Image" class="card-img-bottom" alt="@item.Image">
                                 </div>
                                 <div class="card-footer" style="display: flex; flex-direction: row ; justify-content: end;">

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BTVN5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4e642835f46bc1f699bf588a3157fe3393ad5ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d059ac8f7417629a400753fe3ff382d042b0799")]
 [assembly: System.Reflection.AssemblyProductAttribute("BTVN5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BTVN5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

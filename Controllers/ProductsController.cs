@@ -24,6 +24,9 @@ namespace BTVN5.Controllers
         // GET: Products
         public async Task<IActionResult> Index()
         {
+            ViewBag.Life =_context.Products.Count(s=>s.Categpry.CategoryName == "Đời sống") ;
+            ViewBag.Health =_context.Products.Count(s=>s.Categpry.CategoryName == "Sức khỏe") ;
+            ViewBag.Code =_context.Products.Count(s=>s.Categpry.CategoryName == "Lập trình") ;
             var productDbContext = _context.Products.Include(p => p.Categpry);
             return View(await productDbContext.ToListAsync());
         }
@@ -66,8 +69,9 @@ namespace BTVN5.Controllers
             {
                 if (Image != null && Image.Length > 0)
                 {
+                    int maxId =  _context.Products.Max(p => p.Id)+1;
                     // Lưu trữ tệp ảnh vào thư mục trên server hoặc bất kỳ nơi lưu trữ khác bạn chọn
-                    product.Image = await SaveImage(Image);
+                    product.Image = await SaveImage(Image,maxId);
                 }
                 _context.Add(product);
                 await _context.SaveChangesAsync();
@@ -130,19 +134,11 @@ namespace BTVN5.Controllers
             return View(product);
         }
 
-        private async Task<string> SaveImage(IFormFile file)
+        private async Task<string> SaveImage(IFormFile file,int id)
         {
-            // Tùy chỉnh phương thức này để lưu trữ tệp ảnh vào nơi bạn muốn trên máy chủ
-            // Ví dụ: thư mục 'wwwroot/images'
             var uploadsFolder = Path.Combine(_webHostEnvironment.WebRootPath, "images");
-
-            // Tạo tên file duy nhất
-            var uniqueFileName = Guid.NewGuid().ToString() + "_" + file.FileName;
-
-            // Đường dẫn đầy đủ đến file trên máy chủ
+            var uniqueFileName = id + file.FileName;
             var filePath = Path.Combine(uploadsFolder, uniqueFileName);
-
-            // Lưu trữ tệp ảnh vào đường dẫn đã chọn
             using (var fileStream = new FileStream(filePath, FileMode.Create))
             {
                 await file.CopyToAsync(fileStream);

@@ -7,16 +7,8 @@
       "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|e:\\dauvannghia\\coding\\web\\btvn5\\btvnnnnnn\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{296CEB8F-AD72-4F22-AC6C-A6F150C2635A}|BTVN5.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T14:03:11.994Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T14:26:44.46Z",
               "EditorCaption": ""
             },
             {
@@ -53,35 +45,9 @@
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAcwEAAAAAjAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T12:46:16.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
-              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "Views\\Products\\Create.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T12:42:40.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
-              "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "Views\\Products\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T09:35:07.129Z",
+              "WhenOpened": "2024-03-14T14:08:22.12Z",
               "EditorCaption": ""
             }
           ]
