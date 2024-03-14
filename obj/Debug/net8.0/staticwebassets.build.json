@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g1LUmMDorthVczFW+mH2xNCBej5LMXGgqWPmiJti/ks=",
+  "Hash": "Ch0TKDhV0mRffxn7gcY3/12YnyHYoWh22cjh9Qee2o0=",
   "Source": "BTVN5",
   "BasePath": "_content/BTVN5",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\a29f6ba2-214b-44c0-a5ac-53add47f4d6c_toan.jpg",
+      "SourceId": "BTVN5",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\",
+      "BasePath": "_content/BTVN5",
+      "RelativePath": "images/a29f6ba2-214b-44c0-a5ac-53add47f4d6c_toan.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\a29f6ba2-214b-44c0-a5ac-53add47f4d6c_toan.jpg"
     },
     {
       "Identity": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\js\\site.js",

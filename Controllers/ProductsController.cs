@@ -6,17 +6,20 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using BTVN5.Models;
+using Microsoft.Extensions.Hosting;
 
 namespace BTVN5.Controllers
 {
     public class ProductsController : Controller
     {
         private readonly ProductDbContext _context;
-
-        public ProductsController(ProductDbContext context)
+        private readonly IWebHostEnvironment _webHostEnvironment;
+        public ProductsController(ProductDbContext context, IWebHostEnvironment webHostEnvironment)
         {
             _context = context;
+            _webHostEnvironment = webHostEnvironment;
         }
+
 
         // GET: Products
         public async Task<IActionResult> Index()
@@ -56,10 +59,16 @@ namespace BTVN5.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Title,Author,Price,Description,Image,CategpryId")] Product product)
+        public async Task<IActionResult> Create([Bind("Id,Title,Author,Price,Description,Image,CategpryId")] Product product,IFormFile Image)
         {
+            
             if (ModelState.IsValid)
             {
+                if (Image != null && Image.Length > 0)
+                {
+                    // Lưu trữ tệp ảnh vào thư mục trên server hoặc bất kỳ nơi lưu trữ khác bạn chọn
+                    product.Image = await SaveImage(Image);
+                }
                 _context.Add(product);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -121,6 +130,27 @@ namespace BTVN5.Controllers
             return View(product);
         }
 
+        private async Task<string> SaveImage(IFormFile file)
+        {
+            // Tùy chỉnh phương thức này để lưu trữ tệp ảnh vào nơi bạn muốn trên máy chủ
+            // Ví dụ: thư mục 'wwwroot/images'
+            var uploadsFolder = Path.Combine(_webHostEnvironment.WebRootPath, "images");
+
+            // Tạo tên file duy nhất
+            var uniqueFileName = Guid.NewGuid().ToString() + "_" + file.FileName;
+
+            // Đường dẫn đầy đủ đến file trên máy chủ
+            var filePath = Path.Combine(uploadsFolder, uniqueFileName);
+
+            // Lưu trữ tệp ảnh vào đường dẫn đã chọn
+            using (var fileStream = new FileStream(filePath, FileMode.Create))
+            {
+                await file.CopyToAsync(fileStream);
+            }
+
+            // Trả về đường dẫn của file
+            return "/images/" + uniqueFileName; // Đường dẫn trả về có thể sử dụng để hiển thị ảnh trong ứng dụng của bạn
+        }
         // GET: Products/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
@@ -159,5 +189,7 @@ namespace BTVN5.Controllers
         {
             return _context.Products.Any(e => e.Id == id);
         }
+
+     
     }
 }

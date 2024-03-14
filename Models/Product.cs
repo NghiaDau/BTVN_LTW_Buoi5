@@ -13,7 +13,7 @@ namespace BTVN5.Models
         public decimal Price { get; set; }
         public string Description { get; set; }
         [StringLength(150)]
-        public string Image { get; set; }
+        public string? Image { get; set; }
        
         public int CategpryId { get; set; }
         public Category? Categpry { get; set; }
