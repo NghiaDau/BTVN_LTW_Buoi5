@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FYPGRUEKJttRJC+NKxTymbiSKPLJfc6PWtma+3iKqCI58GbMyqGswlhzhjb0QXfAUUh8cWLN8V6PbPoMNvmNBA==",
+  "dgSpecHash": "X/Kpmbm2GbgR1vKGK+IYiuvOrEjkn3el6J02wNkzvuyqPcNExcl1WzHCEOVL3oa3iy25eLtYiwDj10Iq4zi9ag==",
   "success": true,
-  "projectFilePath": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVN5.csproj",
+  "projectFilePath": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\BTVN5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

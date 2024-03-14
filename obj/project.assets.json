@@ -7844,11 +7844,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVN5.csproj",
+      "projectUniqueName": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\BTVN5.csproj",
       "projectName": "BTVN5",
-      "projectPath": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVN5.csproj",
+      "projectPath": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\BTVN5.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\obj\\",
+      "outputPath": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
