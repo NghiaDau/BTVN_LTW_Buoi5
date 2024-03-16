@@ -24,13 +24,26 @@ namespace BTVN5.Controllers
         // GET: Products
         public async Task<IActionResult> Index()
         {
-            ViewBag.Life =_context.Products.Count(s=>s.Categpry.CategoryName == "Đời sống") ;
-            ViewBag.Health =_context.Products.Count(s=>s.Categpry.CategoryName == "Sức khỏe") ;
-            ViewBag.Code =_context.Products.Count(s=>s.Categpry.CategoryName == "Lập trình") ;
+            ViewBag.categories =  _context.Categories.ToList();
             var productDbContext = _context.Products.Include(p => p.Categpry);
             return View(await productDbContext.ToListAsync());
         }
 
+        public async Task<IActionResult> ProductCategory(int Id)
+        {
+            ViewBag.categories =_context.Categories.ToList();
+            var produtcs =_context.Products.ToList();
+            Dictionary<string, int> categoryCounts = new Dictionary<string, int>();
+            foreach (var category in ViewBag.Categories)
+            {
+                int count = produtcs.Count(s => s.Categpry?.CategoryName == category.CategoryName);
+                categoryCounts[category.CategoryName] = count;
+            }
+            ViewBag.categoryCounts = categoryCounts;
+            var productDbContext = _context.Products.Include(p => p.Categpry)
+                .Where(p => p.Categpry.Id ==Id);
+            return View(await productDbContext.ToListAsync());
+        }
         // GET: Products/Details/5
         public async Task<IActionResult> Details(int? id)
         {

@@ -6,20 +6,11 @@
 <div class="main-body" style="display:grid;grid-template-columns:15% 85%;">
     <div class="left_side">
         <h1>Chủ đề</h1>
-        @{
-            Dictionary<string, int> categoryCounts = new Dictionary<string, int>();
-            foreach (var category in ViewBag.Categories)
-            {
-                int count = Model.Count(s => s.Categpry?.CategoryName == category.CategoryName);
-                categoryCounts[category.CategoryName] = count;
-            }
-        }
-
         <ul>
             @foreach (var category in ViewBag.Categories)
             {
-                <a class="text-decoration" asp-action="ProductCategory" asp-route-Id="@(category.Id)">
-                <li>@category.CategoryName (@categoryCounts[category.CategoryName])</li>
+                <a class="text-decoration" asp-action="ProductCategory" asp-route-Id="@category.Id">
+                <li>@category.CategoryName (@ViewBag.categoryCounts[category.CategoryName])</li>
                 </a>
             }
         </ul>
@@ -37,7 +28,7 @@
                             <div class="card" style="width: 16rem;padding:0">
                                 <div class="card-header" style="display: flex; flex-direction: row ; justify-content: space-between;">
                                     <h5>@item.Title</h5>
-                                    <a asp-action="Edit" asp-route-id="@item.Id" >Sửa</a>
+                                    <a asp-action="Edit" asp-route-id="@item.Id">Sửa</a>
                                 </div>
                                 <div class="card-body">
                                     <p><strong>Tác giả :</strong> @item.Author</p>
