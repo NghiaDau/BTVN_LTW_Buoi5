@@ -38,8 +38,7 @@
               "RelativeToolTip": "Views\\Products\\ProductCategory.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-16T01:27:01.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T01:27:01.152Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "Views\\Products\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T14:26:44.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T14:26:44.46Z"
             },
             {
               "$type": "Document",
@@ -62,7 +60,7 @@
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAA1wCEAAAAMAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwCEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T14:08:22.12Z",
               "EditorCaption": ""
