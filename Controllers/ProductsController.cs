@@ -101,12 +101,13 @@ namespace BTVN5.Controllers
             {
                 return NotFound();
             }
-
             var product = await _context.Products.FindAsync(id);
             if (product == null)
             {
                 return NotFound();
             }
+            
+            
             ViewData["CategpryId"] = new SelectList(_context.Categories, "Id", "CategoryName", product.CategpryId);
             return View(product);
         }
@@ -116,7 +117,7 @@ namespace BTVN5.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Author,Price,Description,Image,CategpryId")] Product product)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Author,Price,Description,Image,CategpryId")] Product product, IFormFile Image)
         {
             if (id != product.Id)
             {
@@ -127,6 +128,11 @@ namespace BTVN5.Controllers
             {
                 try
                 {
+                    if (Image != null && Image.Length > 0)
+                    {
+                        // Lưu trữ tệp ảnh vào thư mục trên server hoặc bất kỳ nơi lưu trữ khác bạn chọn
+                        product.Image = await SaveImage(Image, product.Id);
+                    }
                     _context.Update(product);
                     await _context.SaveChangesAsync();
                 }

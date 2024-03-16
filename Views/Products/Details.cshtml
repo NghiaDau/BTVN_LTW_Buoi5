@@ -4,51 +4,68 @@
     ViewData["Title"] = "Details";
 }
 
-<h1>Details</h1>
+<h1>Chi tiết @Model.Title</h1>
+<div class="card mb-3" style="max-width:800px;padding-top:10px">
+    <div class="row g-0">
+        <div class="col-md-5">
+            <img src="@Model.Image" alt="Book Image" style="width:100%">
+        </div>
+        <div class="col-md-7">
+            <div class="card-body">
+                <h2 class="book-title">@Model.Title</h2>
+                <p class="book-author">Tác giả: @Model.Author</p>
+                <p class="book-author">Thể loại: @Model.Categpry?.CategoryName</p>
+                <p class="book-description">@Model.Description</p>
+                <p class="book-price">Giá: @Model.Price (VND)</p>
+                <div style="display:flex">
+                    <div class="rating">
+                        <label for="star5"><i class="fas fa-star"></i></label>
+                        <label for="star4"><i class="fas fa-star"></i></label>
+                        <label for="star3"><i class="fas fa-star"></i></label>
+                        <label for="star2"><i class="fas fa-star"></i></label>
+                        <label for="star1" style="color: #8E8E8E"><i class="fas fa-star"></i></label>
+                    </div>
+                    <label style="color:orangered"> (100 đánh giá) </label>
+                </div>
+                
+                <form action="/cart" method="post" class="form">
+                    <div class="qt">
+                        <label for="quantity" class="qtyy">Số lượng:</label>
+                        <div class="quantity-input">
+                            <button type="button" class="quantity-btn" id="minus-btn">-</button>
+                            <input type="number" id="quantity" name="quantity" value="1" min="1" class="no-spinners">
+                            <button type="button" class="quantity-btn" id="plus-btn">+</button>
+                        </div>
+                    </div>
+                    <div class="btn">
+                        <button class="add-to-cart-btn"><i class="fas fa-shopping-cart"></i> Thêm vào giỏ hàng</button>
+                        <button type="submit" name="action" value="buy-now">Mua ngay</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+    <a asp-action="Index" class="btn btn-primary">Trở về</a>
+</div>
 
-<div>
-    <h4>Product</h4>
-    <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Title)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Title)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Author)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Author)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Price)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Price)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Description)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Description)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Image)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Image)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Categpry)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Categpry.CategoryName)
-        </dd>
-    </dl>
-</div>
-<div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
-</div>
+
+@section scripts{
+    <script>
+        document.getElementById('plus-btn').addEventListener('click', function () {
+            var quantityInput = document.getElementById('quantity');
+            var currentValue = parseInt(quantityInput.value);
+            quantityInput.value = currentValue + 1;
+        });
+
+        document.getElementById('minus-btn').addEventListener('click', function () {
+            var quantityInput = document.getElementById('quantity');
+            var currentValue = parseInt(quantityInput.value);
+            if (currentValue > 1) {
+                quantityInput.value = currentValue - 1;
+            }
+        });
+    </script>
+
+}

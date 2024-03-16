@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1URkr/GNhJsocnvZ3/1lgO2QEk55FZXzkWpWZfiTiyw=",
+  "Hash": "TCqLRP2oA5l2lVjni1rp86puUVN7Uv9ZI6HClGDdpZE=",
   "Source": "BTVN5",
   "BasePath": "_content/BTVN5",
   "Mode": "Default",
@@ -93,12 +93,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\0daolilamnguoi.jpg",
+      "Identity": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\5daolilamnguoi.jpg",
       "SourceId": "BTVN5",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\",
       "BasePath": "_content/BTVN5",
-      "RelativePath": "images/0daolilamnguoi.jpg",
+      "RelativePath": "images/5daolilamnguoi.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,15 +109,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\0daolilamnguoi.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\5daolilamnguoi.jpg"
     },
     {
-      "Identity": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\0no_image.jpg",
+      "Identity": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\5tinganh.jpg",
       "SourceId": "BTVN5",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\",
       "BasePath": "_content/BTVN5",
-      "RelativePath": "images/0no_image.jpg",
+      "RelativePath": "images/5tinganh.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\0no_image.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\5tinganh.jpg"
     },
     {
-      "Identity": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\0toan.jpg",
+      "Identity": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\5toan.jpg",
       "SourceId": "BTVN5",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\",
       "BasePath": "_content/BTVN5",
-      "RelativePath": "images/0toan.jpg",
+      "RelativePath": "images/5toan.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\0toan.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\5toan.jpg"
     },
     {
       "Identity": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\6tinganh.jpg",
@@ -169,6 +169,25 @@
       "OriginalItemSpec": "wwwroot\\images\\6tinganh.jpg"
     },
     {
+      "Identity": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\7daolilamnguoi.jpg",
+      "SourceId": "BTVN5",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\",
+      "BasePath": "_content/BTVN5",
+      "RelativePath": "images/7daolilamnguoi.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7daolilamnguoi.jpg"
+    },
+    {
       "Identity": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\8daolilamnguoi.jpg",
       "SourceId": "BTVN5",
       "SourceType": "Discovered",
@@ -186,6 +205,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\8daolilamnguoi.jpg"
+    },
+    {
+      "Identity": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\8toan.jpg",
+      "SourceId": "BTVN5",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\",
+      "BasePath": "_content/BTVN5",
+      "RelativePath": "images/8toan.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8toan.jpg"
     },
     {
       "Identity": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\9daolilamnguoi.jpg",
