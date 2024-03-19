@@ -1,283 +1,311 @@
 {
   "Files": [
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BTVN5.bundle.scp.css",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BTVN5.bundle.scp.css",
       "PackagePath": "staticwebassets\\BTVN5.bundle.scp.css"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\css\\site.css",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\favicon.ico",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\images\\0violet_bent.jpeg",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\0sanpham1.jpg",
+      "PackagePath": "staticwebassets\\images\\0sanpham1.jpg"
+    },
+    {
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\0violet_bent.jpeg",
       "PackagePath": "staticwebassets\\images\\0violet_bent.jpeg"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\images\\5daolilamnguoi.jpg",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\1hipple.jpeg",
+      "PackagePath": "staticwebassets\\images\\1hipple.jpeg"
+    },
+    {
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\1ita.jpeg",
+      "PackagePath": "staticwebassets\\images\\1ita.jpeg"
+    },
+    {
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\1sanpham2.jpg",
+      "PackagePath": "staticwebassets\\images\\1sanpham2.jpg"
+    },
+    {
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\2sanpham1.jpg",
+      "PackagePath": "staticwebassets\\images\\2sanpham1.jpg"
+    },
+    {
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\2violet_bent.jpeg",
+      "PackagePath": "staticwebassets\\images\\2violet_bent.jpeg"
+    },
+    {
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\5d72ef86a-30a2-4d6e-bed9-e87b584cd44b_sanpham9.jpg",
+      "PackagePath": "staticwebassets\\images\\5d72ef86a-30a2-4d6e-bed9-e87b584cd44b_sanpham9.jpg"
+    },
+    {
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\5daolilamnguoi.jpg",
       "PackagePath": "staticwebassets\\images\\5daolilamnguoi.jpg"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\images\\5tinganh.jpg",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\5tinganh.jpg",
       "PackagePath": "staticwebassets\\images\\5tinganh.jpg"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\images\\5toan.jpg",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\5toan.jpg",
       "PackagePath": "staticwebassets\\images\\5toan.jpg"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\images\\6tinganh.jpg",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\6tinganh.jpg",
       "PackagePath": "staticwebassets\\images\\6tinganh.jpg"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\images\\7daolilamnguoi.jpg",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\7daolilamnguoi.jpg",
       "PackagePath": "staticwebassets\\images\\7daolilamnguoi.jpg"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\images\\8daolilamnguoi.jpg",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\8daolilamnguoi.jpg",
       "PackagePath": "staticwebassets\\images\\8daolilamnguoi.jpg"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\images\\8toan.jpg",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\8toan.jpg",
       "PackagePath": "staticwebassets\\images\\8toan.jpg"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\images\\9daolilamnguoi.jpg",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\images\\9daolilamnguoi.jpg",
       "PackagePath": "staticwebassets\\images\\9daolilamnguoi.jpg"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\js\\site.js",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

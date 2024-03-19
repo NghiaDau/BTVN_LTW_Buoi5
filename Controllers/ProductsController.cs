@@ -116,7 +116,7 @@ namespace BTVN5.Controllers
                 return NotFound();
             }
 
-
+            ViewBag.Price = product.Price;
             ViewData["CategpryId"] = new SelectList(_context.Categories, "Id", "CategoryName", product.CategpryId);
             return View(product);
         }

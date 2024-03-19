@@ -67,7 +67,7 @@ namespace BTVN5.Migrations
                         .HasColumnType("nvarchar(150)");
 
                     b.Property<decimal>("Price")
-                        .HasColumnType("decimal(18,2)");
+                        .HasColumnType("decimal(18,0)");
 
                     b.Property<string>("Title")
                         .IsRequired()
