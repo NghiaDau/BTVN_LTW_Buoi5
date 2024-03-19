@@ -24,15 +24,15 @@ namespace BTVN5.Controllers
         // GET: Products
         public async Task<IActionResult> Index()
         {
-            ViewBag.categories =  _context.Categories.ToList();
+            ViewBag.categories = _context.Categories.ToList();
             var productDbContext = _context.Products.Include(p => p.Categpry);
             return View(await productDbContext.ToListAsync());
         }
 
         public async Task<IActionResult> ProductCategory(int Id)
         {
-            ViewBag.categories =_context.Categories.ToList();
-            var produtcs =_context.Products.ToList();
+            ViewBag.categories = _context.Categories.ToList();
+            var produtcs = _context.Products.ToList();
             Dictionary<string, int> categoryCounts = new Dictionary<string, int>();
             foreach (var category in ViewBag.Categories)
             {
@@ -41,7 +41,7 @@ namespace BTVN5.Controllers
             }
             ViewBag.categoryCounts = categoryCounts;
             var productDbContext = _context.Products.Include(p => p.Categpry)
-                .Where(p => p.Categpry.Id ==Id);
+                .Where(p => p.Categpry.Id == Id);
             return View(await productDbContext.ToListAsync());
         }
         // GET: Products/Details/5
@@ -75,16 +75,25 @@ namespace BTVN5.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Title,Author,Price,Description,Image,CategpryId")] Product product,IFormFile Image)
+        public async Task<IActionResult> Create([Bind("Id,Title,Author,Price,Description,Image,CategpryId")] Product product, IFormFile Image)
         {
-            
+
             if (ModelState.IsValid)
             {
                 if (Image != null && Image.Length > 0)
                 {
-                    int maxId =  _context.Products.Max(p => p.Id)+1;
+                    int maxId;
+                    if (_context.Products.Count() == 0)
+                    {
+                        maxId = 0;
+                    }
+                    else
+                    {
+                        maxId = _context.Products.Max(p => p.Id) + 1;
+
+                    }
                     // Lưu trữ tệp ảnh vào thư mục trên server hoặc bất kỳ nơi lưu trữ khác bạn chọn
-                    product.Image = await SaveImage(Image,maxId);
+                    product.Image = await SaveImage(Image, maxId);
                 }
                 _context.Add(product);
                 await _context.SaveChangesAsync();
@@ -106,8 +115,8 @@ namespace BTVN5.Controllers
             {
                 return NotFound();
             }
-            
-            
+
+
             ViewData["CategpryId"] = new SelectList(_context.Categories, "Id", "CategoryName", product.CategpryId);
             return View(product);
         }
@@ -153,7 +162,7 @@ namespace BTVN5.Controllers
             return View(product);
         }
 
-        private async Task<string> SaveImage(IFormFile file,int id)
+        private async Task<string> SaveImage(IFormFile file, int id)
         {
             var uploadsFolder = Path.Combine(_webHostEnvironment.WebRootPath, "images");
             var uniqueFileName = id + file.FileName;
@@ -205,6 +214,6 @@ namespace BTVN5.Controllers
             return _context.Products.Any(e => e.Id == id);
         }
 
-     
+
     }
 }

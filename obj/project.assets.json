@@ -7839,19 +7839,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\zafus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\BTVN5.csproj",
+      "projectUniqueName": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\BTVN5.csproj",
       "projectName": "BTVN5",
-      "projectPath": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\BTVN5.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "E:\\dauvannghia\\CODING\\Web\\BTVN5\\BTVNNNNNN\\obj\\",
+      "projectPath": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\BTVN5.csproj",
+      "packagesPath": "C:\\Users\\zafus\\.nuget\\packages\\",
+      "outputPath": "Z:\\Development\\asp_dotnet\\BTVN_LTW_Buoi5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\zafus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
