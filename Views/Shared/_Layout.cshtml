@@ -54,8 +54,22 @@
     </header>
     <div class="container">
         <main role="main" class="pb-3">
-
-            @RenderBody()
+            <div class="main-body" style="display:grid;grid-template-columns:15% 85%;">
+                <div class="left_side">
+                    <h1>Chủ đề</h1>
+                    <ul>
+                        <li class="text-primary">
+                            <a style="text-decoration:none" asp-controller="Products" asp-action="Index"> Quản lí sản phẩm</a>
+                        </li>
+                        <li class="text-primary">
+                            <a style="text-decoration:none" asp-controller="Categories" asp-action="Index"> Quản lí loại</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="content">
+                    @RenderBody()
+                </div>
+            </div>
 
         </main>
     </div>
